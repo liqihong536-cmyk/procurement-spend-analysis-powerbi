@@ -110,4 +110,4 @@ Python (pandas) · Power BI (Power BI service, DAX, conditional formatting) · U
 
 - **Quick look:** open [`Procurement_Spend_Analysis.pdf`](Procurement_Spend_Analysis.pdf) for all four pages.
 - **Interactive:** open [`Procurement_Spend_Analysis.pbix`](Procurement_Spend_Analysis.pbix) in Power BI Desktop to explore filters, slicers and DAX measures.
-- **Case study:** [add LinkedIn link]
+- **Case study:** https://www.linkedin.com/in/qihong-li-pm/
